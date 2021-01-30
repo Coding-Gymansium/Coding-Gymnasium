@@ -3,7 +3,7 @@
   
 # Coding-Gymnasium-Digest-2021
 
-## [My Personal Coding Gymnasium](https://github.com/Coding-Gymansium)
+## [See All My Personal Coding Gymnasium Repos](https://github.com/Coding-Gymansium)
 
 </p>
 </div>
