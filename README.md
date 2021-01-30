@@ -13,7 +13,7 @@
   
  </p>
  
-[See the Repos](https://github.com/Coding-Gymansium)
+[Skip To The Repos](https://github.com/Coding-Gymansium)
  
 </div>
 
