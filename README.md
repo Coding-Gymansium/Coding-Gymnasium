@@ -3,8 +3,6 @@
   
 # Coding-Gymnasium-Digest-2021
 
-## [See All My Personal Coding Gymnasium Repos](https://github.com/Coding-Gymansium)
-
 </p>
 </div>
 
@@ -14,6 +12,9 @@
   <img src="https://media.giphy.com/media/3oriNZoNvn73MZaFYk/giphy.gif">
   
  </p>
+ 
+[See the Repos](https://github.com/Coding-Gymansium)
+ 
 </div>
 
 
