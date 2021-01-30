@@ -35,8 +35,8 @@ I created this corner in my Github to group all my study projects in one place.
 
 - [Letter 'C'](#c)
 - [Letter 'J'](#j)
-- [Letter 'R'](#r)
 - [Letter 'Q'](#q)
+- [Letter 'R'](#r)
 
 <br/>
 <hr>
@@ -64,17 +64,7 @@ I created this corner in my Github to group all my study projects in one place.
 [Back To Top](#table-of-contents)
 
 </div>
-<hr>
 
-## R
-
-* [Turing Ruby Exercises - Nico 2021](https://github.com/Coding-Gymansium/ruby-exercises-Nico2021)
-
-<div align='right'>
-
-[Back To Top](#table-of-contents)
-
-</div>
 <hr>
 
 ## Q
@@ -87,3 +77,13 @@ I created this corner in my Github to group all my study projects in one place.
 
 </div>
 <hr>
+
+## R
+
+* [Turing Ruby Exercises - Nico 2021](https://github.com/Coding-Gymansium/ruby-exercises-Nico2021)
+
+<div align='right'>
+
+[Back To Top](#table-of-contents)
+
+</div>
