@@ -16,20 +16,6 @@
  </p>
 </div>
 
-<p>
-  
-I created this corner in my Github to group all my study projects in one place. 
-
-[Coding Gymansium](https://github.com/Coding-Gymansium)
-
-<strong> Here I'll post: </strong>
-
- 1. Explorations projects and other people's tutorials
- 2. Practice mini projects in which I am drill a specific skill. For example, trying a new to me technology or gem.
- 3. Drills repos.
-
-</p>
-
 
 ## Table of Contents
 
@@ -39,6 +25,22 @@ I created this corner in my Github to group all my study projects in one place.
 - [Letter 'R'](#r)
 
 <br/>
+
+<p>
+  
+I set up this corner in my Github to group all my study projects and practice exercises in one place. 
+
+[Coding Gymansium](https://github.com/Coding-Gymansium)
+
+<strong> Here you'll find my: </strong>
+
+ 1. Explorations projects and other people's tutorials
+ 2. Practice mini projects in which I am drill a specific skill. For example, trying a new to me technology or gem.
+ 3. Drills repos.
+
+</p>
+
+
 <hr>
 <br/>
 
