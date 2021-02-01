@@ -24,6 +24,7 @@
 - [Letter 'J'](#j)
 - [Letter 'Q'](#q)
 - [Letter 'R'](#r)
+- [Letter 'S'](#s)
 
 <br/>
 
@@ -84,6 +85,16 @@ I set up this corner in my Github to group all my study projects and practice ex
 ## R
 
 * [Turing Ruby Exercises - Nico 2021](https://github.com/Coding-Gymansium/ruby-exercises-Nico2021)
+
+<div align='right'>
+
+[Back To Top](#table-of-contents)
+
+</div>
+
+## S
+
+* [Sendgrid Practice - contact form with mail_form](https://github.com/Coding-Gymansium/form-with-sendgrid)
 
 <div align='right'>
 
