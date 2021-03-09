@@ -100,7 +100,6 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 * [React Lesson 1](https://github.com/Coding-Gymansium/React_Lesson_1)
 * [Turing Ruby Exercises - Nico 2021](https://github.com/Coding-Gymansium/ruby-exercises-Nico2021)
-* [React Lesson](https://github.com/Coding-Gymansium/React_Lesson_1)
 
 <div align='right'>
 
