@@ -61,6 +61,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 ## C
 
+* [CSS - Jonas Schmedtmann course](https://github.com/Coding-Gymansium/Basic_CSS_By_Jonas)
 * [Cell Neighborgs Exercise](https://github.com/Coding-Gymansium/cell_neighborgs_exercise)
 * [Coding Exercises](https://github.com/Coding-Gymansium/coding-exercises)
 
@@ -97,6 +98,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 ## R
 
+* [React Lesson 1](https://github.com/Coding-Gymansium/React_Lesson_1)
 * [Turing Ruby Exercises - Nico 2021](https://github.com/Coding-Gymansium/ruby-exercises-Nico2021)
 * [React Lesson](https://github.com/Coding-Gymansium/React_Lesson_1)
 
