@@ -20,6 +20,7 @@
 
 ## Table of Contents
 
+- [Letter 'A'](#a)
 - [Letter 'C'](#c)
 - [Letter 'J'](#j)
 - [Letter 'Q'](#q)
@@ -42,6 +43,18 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 </p>
 
+</div>
+<hr>
+
+## A
+
+* [Active Storage Exploration](https://github.com/Coding-Gymansium/active_strg_app_1)
+
+<div align='right'>
+
+[Back To Top](#table-of-contents)
+
+</div>
 
 <hr>
 <br/>
@@ -85,6 +98,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 ## R
 
 * [Turing Ruby Exercises - Nico 2021](https://github.com/Coding-Gymansium/ruby-exercises-Nico2021)
+* [React Lesson](https://github.com/Coding-Gymansium/React_Lesson_1)
 
 <div align='right'>
 
@@ -95,7 +109,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 ## S
 
 * [Sendgrid Practice - contact form with mail_form](https://github.com/Coding-Gymansium/form-with-sendgrid)
-
+* [Shrine S3 Exploration App](https://github.com/Coding-Gymansium/Shrine_S3_Photo_Video)
 <div align='right'>
 
 [Back To Top](#table-of-contents)
