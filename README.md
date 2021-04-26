@@ -99,7 +99,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 ## R
 
 * [Rails-React with webpacker. To-do app](https://github.com/Coding-Gymnasium/todo_application)
-* [React - Redux Udemy Course - March 2021](https://github.com/Coding-Gymnasium/modern-react-with-redux-course/tree/main)
+* [React - Redux Udemy Course](https://github.com/Coding-Gymnasium/modern-react-with-redux-course/tree/main)
 * [React App Practice - March 2021](https://github.com/Coding-Gymnasium/react_app_practice_March)
 * [React Lesson 1](https://github.com/Coding-Gymansium/React_Lesson_1)
 * [Turing Ruby Exercises - Nico 2021](https://github.com/Coding-Gymansium/ruby-exercises-Nico2021)
