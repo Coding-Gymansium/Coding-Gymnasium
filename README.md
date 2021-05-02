@@ -74,6 +74,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 ## J
 
+* [Modern JavaScript Course](https://github.com/Coding-Gymnasium/modern_javaScript_course)
 * [JavaScript Lessons 2020-21](https://github.com/Coding-Gymansium/JavasScript_Jonas_lessons_2020), taught by Jonas Schmedtman.
 * [JavaScript exercises](https://github.com/Coding-Gymansium/javascript_foundations_Nico2021), Turing battery of JS exercises.
 
