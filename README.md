@@ -99,7 +99,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 ## R
 
-* [Rails React Monolith - Cards](https://github.com/Coding-Gymnasium/Rails_React_mono_cards)
+* [Rails React Monolith - Cards](https://github.com/Coding-Gymnasium/Cards_shuffler)
 * [Rails-React with webpacker. To-do app](https://github.com/Coding-Gymnasium/todo_application)
 * [React - Redux Udemy Course](https://github.com/Coding-Gymnasium/modern-react-with-redux-course/tree/main)
 * [React App Practice - March 2021](https://github.com/Coding-Gymnasium/react_app_practice_March)
