@@ -60,7 +60,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 <br/>
 
 ## C
-
+* [Countries Card Shuffler - Rails/JS](https://github.com/Coding-Gymnasium/Cards_shuffler)
 * [CSS - Jonas Schmedtmann course](https://github.com/Coding-Gymansium/Basic_CSS_By_Jonas)
 * [Cell Neighborgs Exercise](https://github.com/Coding-Gymansium/cell_neighborgs_exercise)
 * [Coding Exercises](https://github.com/Coding-Gymansium/coding-exercises)
