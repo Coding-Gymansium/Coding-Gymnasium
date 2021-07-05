@@ -92,6 +92,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 ## N
 
 * [NestJS Fundamentals](https://github.com/Coding-Gymnasium/iluvcoffe_nestjs), by learn.nestjs.com
+* [Nestjs Websockets Practice App](https://github.com/Coding-Gymnasium/nest_chat_websocket)
 
 <div align='right'>
 
