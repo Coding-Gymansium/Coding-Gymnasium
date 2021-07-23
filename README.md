@@ -116,6 +116,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 ## R
 
 * [React Basics](https://github.com/Coding-Gymnasium/React_Basics) by treehouse course
+  - [Components Practice Project: Planets Cards](https://github.com/Coding-Gymnasium/planets-cards-react-component-practice)
 * [Rails React Monolith - Cards](https://github.com/Coding-Gymnasium/Cards_shuffler)
 * [Rails-React with webpacker. To-do app](https://github.com/Coding-Gymnasium/todo_application)
 * [React - Redux Udemy Course](https://github.com/Coding-Gymnasium/modern-react-with-redux-course/tree/main)
