@@ -114,7 +114,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 <hr>
 
 ## R
-* [Travel Advisor React API practice project](https://github.com/Coding-Gymnasium/travel-advisor) based on youtube tutorial by JS Mastery
+* [Travel Advisor React API practice project](https://github.com/Coding-Gymnasium/travel-advisor-1) based on youtube tutorial by JS Mastery
 * [React Basics](https://github.com/Coding-Gymnasium/React_Basics) by treehouse course
   - [Components Practice Project: Planets Cards](https://github.com/Coding-Gymnasium/planets-cards-react-component-practice)
   - [React State Practice](https://github.com/Coding-Gymnasium/practice-state-in-react)
