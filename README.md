@@ -117,6 +117,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 * [Redux Tutorial](https://github.com/Coding-Gymnasium/redux-essentials-example-app) by reduxjs.org
 * [React Router](https://github.com/Coding-Gymnasium/react-router-4) by treehouse course
 * [Travel Advisor React API practice project](https://github.com/Coding-Gymnasium/travel-advisor-1) based on youtube tutorial by JS Mastery
+* [React 16](https://github.com/Coding-Gymnasium/react-16-treehouse) by treeshouse
 * [React Basics](https://github.com/Coding-Gymnasium/React_Basics) by treehouse course
   - [Components Practice Project: Planets Cards](https://github.com/Coding-Gymnasium/planets-cards-react-component-practice)
   - [React State Practice](https://github.com/Coding-Gymnasium/practice-state-in-react)
