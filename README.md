@@ -91,6 +91,8 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 ## N
 
+* NestJS from Zero to hero by Ariel Weinberger
+  - [nestjs task manager](https://github.com/Coding-Gymnasium/nestjs-task-management)
 * [NestJS Fundamentals](https://github.com/Coding-Gymnasium/iluvcoffe_nestjs), by learn.nestjs.com
 * [Nestjs Websockets Practice App](https://github.com/Coding-Gymnasium/nest_chat_websocket), exercise source [medium article](https://betterprogramming.pub/building-a-realtime-chat-in-nestjs-9c0b680be33f)
 
