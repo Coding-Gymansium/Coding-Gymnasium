@@ -116,6 +116,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 <hr>
 
 ## R
+* [React Testing Practice. From livestream tutorial](git@github.com:Coding-Gymnasium/react_test_practice.git) tutorial by PortExe - youtube/twitch.
 * [Redux Tutorial](https://github.com/Coding-Gymnasium/redux-essentials-example-app) by reduxjs.org
 * [React Router](https://github.com/Coding-Gymnasium/react-router-4) by treehouse course
 * [Travel Advisor React API practice project](https://github.com/Coding-Gymnasium/travel-advisor-1) based on youtube tutorial by JS Mastery
