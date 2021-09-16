@@ -27,6 +27,7 @@
 - [Letter 'Q'](#q)
 - [Letter 'R'](#r)
 - [Letter 'S'](#s)
+- [Letter 'T'](#t)
 
 <br/>
 
@@ -146,6 +147,18 @@ I set up this corner in my Github to group all my study projects and practice ex
 * [Sendgrid Practice - contact form with mail_form](https://github.com/Coding-Gymansium/form-with-sendgrid)
 * [Shrine S3 Exploration App](https://github.com/Coding-Gymansium/Shrine_S3_Photo_Video)
 * [Introduction to storybook app](https://github.com/Coding-Gymnasium/storybookIntro) Sourced from [storybook.js.org}(https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
+<div align='right'>
+
+[Back To Top](#table-of-contents)
+
+</div>
+
+</div>
+
+## T
+
+* [Typescript: The Complete Developer's Guide](https://github.com/Coding-Gymnasium/JGrider-Typescript-course)
+
 <div align='right'>
 
 [Back To Top](#table-of-contents)
