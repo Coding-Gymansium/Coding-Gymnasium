@@ -75,6 +75,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 <hr>
 
 ## J
+* [My JavaScript Drills](https://github.com/Coding-Gymnasium/coding_drills_JavaScript) - Small JavaScript drills to practice the fundamentals.
 * [Callback Functions in JavaScript](https://github.com/Coding-Gymnasium/callback_functions_in_JavaScript), by Andrew Chalkley. Treehouse course.
 * [Modern JavaScript Course](https://github.com/Coding-Gymnasium/modern_javaScript_course), by Colt Steele and Stephen Grider
 * [JavaScript Lessons 2020-21](https://github.com/Coding-Gymansium/JavasScript_Jonas_lessons_2020), taught by Jonas Schmedtman.
