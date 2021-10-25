@@ -93,6 +93,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 ## N
 
+* [NodeJS Course](https://github.com/Coding-Gymnasium/Max-Schwarzmuller-Nodejs-course) by Maximilian Schwarzmüller. Doing this course little by little and coming back for what I need rather than completing it linearly.
 * NestJS from Zero to hero by Ariel Weinberger
   - [nestjs task manager](https://github.com/Coding-Gymnasium/nestjs-task-management)
 * [NestJS Fundamentals](https://github.com/Coding-Gymnasium/iluvcoffe_nestjs), by learn.nestjs.com
