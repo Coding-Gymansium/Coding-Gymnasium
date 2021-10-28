@@ -120,6 +120,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 <hr>
 
 ## R
+* [MaxScwarzmuller React Complete Guide](https://github.com/Coding-Gymnasium/MaxScwarzmuller-React-complete-guide/tree/main)
 * [Testing React with Jest and Testing Library - by Bonnie Schulkin](https://github.com/Coding-Gymnasium/react-testing-by-BSchulkin)
 * [React Testing Practice. From livestream tutorial](https://github.com/Coding-Gymnasium/react_test_practice) tutorial by PortExe - youtube/twitch.
 * [Redux Tutorial](https://github.com/Coding-Gymnasium/redux-essentials-example-app) by reduxjs.org
