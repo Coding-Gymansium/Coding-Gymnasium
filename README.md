@@ -20,14 +20,15 @@
 
 ## Table of Contents
 
-- [Letter 'A'](#a)
-- [Letter 'C'](#c)
-- [Letter 'J'](#j)
-- [Letter 'N'](#n)
-- [Letter 'Q'](#q)
-- [Letter 'R'](#r)
-- [Letter 'S'](#s)
-- [Letter 'T'](#t)
+- ['A'](#a)
+- ['C'](#c)
+- ['J'](#j)
+- ['N'](#n)
+- ['Q'](#q)
+- ['R'](#r)
+- ['S'](#s)
+- ['T'](#t)
+- ['V'](#v)
 
 <br/>
 
@@ -163,6 +164,16 @@ I set up this corner in my Github to group all my study projects and practice ex
 ## T
 
 * [Typescript: The Complete Developer's Guide](https://github.com/Coding-Gymnasium/JGrider-Typescript-course)
+
+<div align='right'>
+
+[Back To Top](#table-of-contents)
+
+</div>
+
+## V
+
+* [My .vimrc](https://github.com/Coding-Gymnasium/my-vimrc)
 
 <div align='right'>
 
