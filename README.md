@@ -150,6 +150,7 @@ I set up this corner in my Github to group all my study projects and practice ex
 
 ## S
 
+* [Sequelize Course](https://github.com/Coding-Gymnasium/David_Armendariz_Sequelize_Course) by David Armendariz
 * [Sendgrid Practice - contact form with mail_form](https://github.com/Coding-Gymansium/form-with-sendgrid)
 * [Shrine S3 Exploration App](https://github.com/Coding-Gymansium/Shrine_S3_Photo_Video)
 * [Introduction to storybook app](https://github.com/Coding-Gymnasium/storybookIntro) Sourced from [storybook.js.org}(https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
